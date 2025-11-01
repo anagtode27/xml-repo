@@ -1,7 +1,7 @@
 <xsd:schema
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns="https://anagtode27.github.io/xml-repo/Hotels.xsd"
-    targetNamespace="https://anagtode27.github.io/xml-repo/Hotels.xsd" elementFormDefault="qualified"
+    xmlns="https://anagtode27.github.io/xml-repo"
+    targetNamespace="https://anagtode27.github.io/xml-repo" elementFormDefault="qualified"
     attributeFormDefault="unqualified">
 
     <xsd:annotation>
@@ -38,3 +38,4 @@
 
 
 </xsd:schema>
+
