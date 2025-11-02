@@ -52,15 +52,15 @@
         </Address>
     </Hotel>
 
-    <Hotel Rating="4.3">
-        <Name>Mariott</Name>
-        <Phone>925-867-9200</Phone>
-        <Address NearestAirport="OAK">
-            <Number>2600</Number>
-            <Street>Bishop Dr.</Street>
-            <City>San Ramon</City>
-            <State>CA</State>
-            <Zip>94582</Zip>
+    <Hotel Rating="3.9">
+        <Name>Embassy Suites</Name>
+        <Phone>512-454-8004</Phone>
+        <Address NearestAirport="AUS">
+            <Number>5901</Number>
+            <Street>N. Interstate Hwy</Street>
+            <City>Austin</City>
+            <State>TX</State>
+            <Zip>78723</Zip>
         </Address>
     </Hotel>
 
@@ -129,3 +129,4 @@
 
 
 </Hotels>
+
