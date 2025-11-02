@@ -61,7 +61,6 @@
             <City>Austin</City>
             <State>TX</State>
             <Zip>78723</Zip>
-        </Address>
     </Hotel>
 
     <Hotel>
@@ -129,4 +128,5 @@
 
 
 </Hotels>
+
 
