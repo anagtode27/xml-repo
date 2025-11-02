@@ -1,0 +1,131 @@
+<Hotels xmlns="https://anagtode27.github.io/xml-repo"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://anagtode27.github.io/xml-repo Hotels.xsd">
+
+    <Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>11</Number>
+            <Street>E. 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="7.2">
+        <Name>Tilden</Name>
+        <Phone>415-673-2332</Phone>
+        <Address NearestAirport="SFO">
+            <Number>345</Number>
+            <Street>Taylor St.</Street>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <Zip>94102</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Sonesta Select</Name>
+        <Phone>480-966-2800</Phone>
+        <Address NearestAirport="PHX">
+            <Number>601</Number>
+            <Street>S. Ash Ave</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.3">
+        <Name>Mariott</Name>
+        <Phone>925-867-9200</Phone>
+        <Phone>925-837-9400</Phone>
+        <Address NearestAirport="OAK">
+            <Number>2600</Number>
+            <Street>Bishop Dr.</Street>
+            <City>San Ramon</City>
+            <State>CA</State>
+            <Zip>94582</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.3">
+        <Name>Mariott</Name>
+        <Phone>925-867-9200</Phone>
+        <Address NearestAirport="OAK">
+            <Number>2600</Number>
+            <Street>Bishop Dr.</Street>
+            <City>San Ramon</City>
+            <State>CA</State>
+            <Zip>94582</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>McCormick</Name>
+        <Phone>800-535-1865</Phone>
+        <Address NearestAirport="PHX">
+            <Number>7421</Number>
+            <Street>N Scottsdale Rd.</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85253</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Four Seasons</Name>
+        <Phone>310-273-2222</Phone>
+        <Address NearestAirport="LAX">
+            <Number>300</Number>
+            <Street>S Doheny Dr.</Street>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Zip>90048</Zip>
+        </Address>
+    </Hotel>
+
+
+    <Hotel Rating="4.6">
+        <Name>Drury Inn and Suites</Name>
+        <Phone>928-773-4900</Phone>
+        <Address NearestAirport="FLG">
+            <Number>300</Number>
+            <Street>S Milton Rd.</Street>
+            <City>Flagstaff</City>
+            <State>AZ</State>
+            <Zip>86001</Zip>
+        </Address>
+    </Hotel>
+
+
+    <Hotel Rating="3.9">
+        <Name>Holiday Inn</Name>
+        <Phone>925-828-7750</Phone>
+        <Address NearestAirport="OAK">
+            <Number>6680</Number>
+            <Street>Regional St.</Street>
+            <City>Dublin</City>
+            <State>CA</State>
+            <Zip>94582</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.0">
+        <Name>Embassy Suites</Name>
+        <Phone>925-934-2500</Phone>
+        <Address NearestAirport="OAK">
+            <Number>1345</Number>
+            <Street>Treat Blvd</Street>
+            <City>Walnut Creek</City>
+            <State>CA</State>
+            <Zip>94597</Zip>
+        </Address>
+    </Hotel>
+
+
+
+</Hotels>
